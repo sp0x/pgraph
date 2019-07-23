@@ -3,3 +3,4 @@ import
 plugins
 data
 .idea
+__pycache__
